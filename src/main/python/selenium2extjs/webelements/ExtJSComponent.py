@@ -1,7 +1,7 @@
 '''
 '''
-import ExtJSWebElement
-import ExtJSQueryType
+from selenium2extjs.webelements.ExtJSWebElement import ExtJSWebElement
+from selenium2extjs.webelements import ExtJSQueryType
 
 
 FUNCTION_DEFINE_MyExt = '''
